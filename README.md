@@ -69,7 +69,7 @@ cd plp_project1/src
 ```
 Run the interpreter with a test case:
 ```
-java -cp ".:/Users/shruthiyaramada/Downloads/plp_project1/antlr-4.9.2-complete.jar" Main /Users/shruthiyaramada/Downloads/plp_project1/test/test1_simple_class.pas
+java -cp ".:/path/to/project/plp_project1/antlr-4.9.2-complete.jar" Main /path/to/project/plp_project1/test/test1_simple_class.pas
 ```
 
 Repeat the above command with different test files as needed.
