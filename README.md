@@ -1,4 +1,4 @@
-# Delphi Extension Project
+# Delphi Interpreter Project
 
 ## Introduction
 This project involves extending a Pascal grammar to support object-oriented programming features, effectively creating a subset of Delphi. The implemented features include:
