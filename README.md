@@ -74,21 +74,21 @@ Repeat the above command with different test files as needed.
 
 ## Test Case Explanations
 
-### **Test 1: Simple Class Implementation (`test1_simple_class.pas`)
+### Test 1: Simple Class Implementation (`test1_simple_class.pas`)
 - Demonstrates the ability to define a simple class with attributes and a method.
 - Validates object instantiation and method invocation.
 - Example: A `Person` class with `name` and `age` fields, and a method to print details.
 
-### **Test 2: Constructors and Destructors (`test2_const_dest.pas`)
+### Test 2: Constructors and Destructors (`test2_const_dest.pas`)
 - Ensures that the constructor initializes object attributes correctly.
 - Tests automatic execution of destructors upon object deletion.
 - Example: A `Car` class initializes `brand` and `model` in the constructor and releases memory in the destructor.
 
-### **Test 3: Inheritance (`test3_test_inherit.pas`)
+### Test 3: Inheritance (`test3_test_inherit.pas`)
 - Checks that child classes can inherit fields and methods from parent classes.
 - Example: `Employee` extends `Person` and adds `salary` attribute.
 
-### **Test 4: Interfaces (`test4_test_interface.pas`)
+### Test 4: Interfaces (`test4_test_interface.pas`)
 - Ensures interface declaration and implementation by a class.
 - Example: A `Drawable` interface with a `draw` method implemented by `Circle` and `Square` classes.
 
