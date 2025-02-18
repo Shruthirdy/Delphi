@@ -27,9 +27,9 @@ plp_project1/
 │   │   ├── *.java     # Generated ANTLR parser and lexer files
 │   ├── Main.java      # Java interpreter to walk through the AST
 │── test/
-│   ├── test1_simple_class.pas
-│   ├── test2_constructor.pas
-│   ├── test3_encapsulation.pas
+│   ├── test1_test_simple.pas
+│   ├── test2_const_dest.pas
+│   ├── test3_test_inherit.pas
 │   ├── ...            # More test cases
 │── README.md          # This file
 ```
